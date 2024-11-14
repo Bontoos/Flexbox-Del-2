@@ -10,7 +10,7 @@ header {
     color: #fff;
     padding: 20px;
     text-align: center;
-    height: 100px;
+    height: 75px;
 }
 
 footer {
@@ -34,7 +34,7 @@ footer {
 
 .content-right {
     width: 75%;
-    background-color: red;
+    background-color: white;
     padding: 20px;
     text-align: left;
 }
@@ -44,6 +44,6 @@ footer {
     flex-direction: column;
     flex-wrap: wrap;
     width: 25%;
-    background-color: yellow;
+    background-color: #f4f4f4;
     padding: 20px;
 }
